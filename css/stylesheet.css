@@ -1,10 +1,13 @@
 body{
     background-color: #cbaf87;
+    
 }
 
 header{
     background-color: #7E8A97;
     text-align: center;
+    position: sticky;
+
 }
 
 header h1{
@@ -24,3 +27,37 @@ header li a:link{
 header li a:visited{
     color: silver
 }
+
+
+
+main{
+    background-color: #E7DEC8;
+}
+
+
+h3.menu{
+    text-align: center;
+}
+
+
+main li{
+    color: rgb(31, 183, 221)
+}
+
+img {
+    position: relative;
+}
+.para1{
+    position: relative;
+    left: 140px;
+    top: -140px;
+    margin-right: 140px;
+
+}
+
+.para2{
+    position: relative;
+    top: -50px;
+}
+
+
