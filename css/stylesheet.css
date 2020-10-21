@@ -1,5 +1,10 @@
+
+
+
 body{
     background-color: #cbaf87;
+    
+    
     
 }
 
@@ -41,7 +46,7 @@ h3.menu{
 
 
 main li{
-    color: rgb(31, 183, 221)
+    color: teal
 }
 
 img {
@@ -57,7 +62,7 @@ img {
 
 .para2{
     position: relative;
-    top: -50px;
+    top: -50px
 }
 
 
