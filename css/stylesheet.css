@@ -1,0 +1,26 @@
+body{
+    background-color: #cbaf87;
+}
+
+header{
+    background-color: #7E8A97;
+    text-align: center;
+}
+
+header h1{
+    color: #30475E;
+}
+
+header li{
+    list-style: none;
+    
+}
+
+
+header li a:link{
+    color: rgb(31, 183, 221)
+}
+
+header li a:visited{
+    color: silver
+}
